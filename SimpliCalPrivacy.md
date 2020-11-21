@@ -1,35 +1,17 @@
 
 **Privacy Policy**
 
-Savajosa built the SimpliCal app as an Ad Supported app. This SERVICE is provided by Savajosa at no cost and is intended for use as is.
+This page is used to inform visitors regarding privacy policies related to the app. 
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+Savajosa built the Calculator app as an Ad Supported app. This SERVICE is provided by Savajosa at no cost and is intended for use as is.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. No  Personal Information is collected.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at SimpliCal unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Calculator unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may collect and store information on your local device such as the app settings. The information that I request will be retained on your device and is not collected by me in any way.
+No  Personal Information is collected or stored in any way by the app. However in future, if such an occasion arises, then the privacy policy will be updated to denote the same. Any information collected in future , will only be used to serve you better by personalizing the app to your need and such information will not be used or sold to any party.
 
-The app does use third party services that may collect information used to identify you.
-
-Link to privacy policy of third party service providers used by the app
-
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-
-
-**Service Providers**
-
-I may employ third-party companies and individuals due to the following reasons:
-
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
-
-I want to inform users of this Service that these third parties may access  your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+Any information collected by any third party providers in future is not under the control of Savajosa. But they are obligated not to disclose or use the information for any other purpose other than to provider a better experience to you
 
 **Changes to This Privacy Policy**
 
@@ -39,6 +21,6 @@ This policy is effective as of 2020-11-14
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sanjuv999@gmailcom.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at savajosa2020@gmail.com.
 
 
