@@ -9,7 +9,7 @@ If you choose to use the app, then you agree to the collection and use of inform
 
 **Information Collection and Use**
 
-For a better experience, while using the app, you may be required to provide with certain personally identifiable information, including but not limited to IP Address, Advertising ID. The information that is requested is collected by nby third party services to provide relevant ads to you. If in future, such information is used directly by the app, then that information will not be shared /transmitted/disclosed by any means to anybody in any form.
+For a better experience, while using the app, you may be required to provide with certain personally identifiable information, including but not limited to IP Address, Advertising ID. The information that is requested is collected by by third party services to provide relevant ads to you. If in future, such information is used directly by the app, then that information will not be shared /transmitted/disclosed by any means to anybody in any form.
 
 The app does use third-party services that may collect information used to identify you.
 
