@@ -1,21 +1,34 @@
 **Privacy Policy**
 
-This page is used to inform visitors regarding privacy policies related to the app.
+SAVAJOSA built the QR & Barcode Scanner,Generator app as an Ad Supported app. This SERVICE is provided by SAVAJOSA at no cost and is intended for use as is.
 
-Savajosa built the this app and is provided by Savajosa at no cost and is intended for use as is.
+This page is used to inform visitors regarding the collection, use, and disclosure of Personal Information if anyone decides to use it.
+
+If you choose to use the app, then you agree to the collection and use of information in relation to this policy. The Personal Information that is collected, if any, would be  used for providing relevant ads to you and/or improving your overal experience with the app. 
+
 
 **Information Collection and Use**
 
-No Personal Information is collected or stored in any way by the app. However in future, if such an occasion arises, then the privacy policy will be updated to denote the same. Any information collected in future , will only be used to serve you better by personalizing the app to your need and such information will not be used or sold to any party.
+For a better experience, while using the app, you may be required to provide with certain personally identifiable information, including but not limited to IP Address, Advertising ID. The information that is requested is collected by nby third party services to provide relevant ads to you. If in future, such information is used directly by the app, then that information will not be shared /transmitted/disclosed by any means to anybody in any form.
 
-Any information collected by any third party providers in future is not under the control of Savajosa. But they are obligated not to disclose or use the information for any other purpose other than to provider a better experience to you
+The app does use third-party services that may collect information used to identify you.
+
+Link to the privacy policy of third-party service providers used by the app
+
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Appodeal](https://www.appodeal.com/home/privacy-policy/)
+
+
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+This Privacy Policy  may get updated from time to time. Thus, you are advised to review this page periodically for any changes. 
 
-This policy is effective as of 2021-1-1
+This policy is effective as of 2021-12-12
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at savajosa2020@gmail.com.
+Please contact savajosa2020@gmail.com for any queries
+
